@@ -1,3 +1,5 @@
+#### Clone from [Lex Friedman's deeptesla](https://github.com/lexfridman/deeptesla)
+
 # deeptesla
 End-to-End Learning from Tesla Autopilot Driving Data
 
