@@ -23,7 +23,7 @@ loss = tf.reduce_mean(tf.square(tf.sub(model.y_, model.y)))
 # loss = tf.reduce_mean(tf.square(tf.sub(model.y_, model.y)))
 #         + tf.add_n([tf.nn.l2_loss(v) for v in train_vars]) * L2NormConst
 train_step = tf.train.AdamOptimizer(1e-4).minimize(loss)
-sess.run(tf.initialize_all_variables())
+sess.run(tf.global_variables_initializer())
 
 # create a summary to monitor cost tensor
 if write_summary:
