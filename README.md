@@ -7,6 +7,7 @@
 - [Convolutional Neural Networks for End-to-End Learning of the Driving Task](https://www.youtube.com/watch?v=U1toUkZw6VI)
 - [Recurrent Neural Networks For Steering Through Time](https://www.youtube.com/watch?v=nFTQ7kHQWtc) 
 - [Deep Learning for Human-Centered Semi-Autonomous Vehicles](https://www.youtube.com/watch?v=ByZF8_-OJNI)
+- [Chris Gerdes on Technology, Policy and Vehicle Safety in the Age of AI](https://www.youtube.com/watch?v=LDprUza7yT4)
 
 #### Assignments
 - [DeepTraffic](http://selfdrivingcars.mit.edu/deeptraffic)
