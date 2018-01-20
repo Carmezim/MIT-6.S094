@@ -21,7 +21,7 @@
 #### Lectures
 
 - [Deep Learning](https://www.youtube.com/watch?v=-6INDaLcuJY&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=9) - [[Slides]](https://www.dropbox.com/s/tru13qjw4jcngx9/lecture1.pdf?dl=1)
-- Self-Driving Cars (coming soon) - [[Slides]](https://www.dropbox.com/s/x8f486xjg7pla5y/lecture2.pdf?dl=1)
+- [Self-Driving Cars](https://www.youtube.com/watch?v=_OCjqIgxwHw) - [[Slides]](https://www.dropbox.com/s/x8f486xjg7pla5y/lecture2.pdf?dl=1)
 - Deep Reinforcement Learning (coming soon) - [[Slides]](https://www.dropbox.com/s/1m4h06cf3lnj8b5/lecture3.pdf?dl=1)
 - Computer Vision (coming soon) - [[Slides]](https://www.dropbox.com/s/0n9vf1ndpq0fkpl/lecture4.pdf?dl=1)
 - Generative Adversarial Networks (coming soon) 
