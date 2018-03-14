@@ -26,11 +26,11 @@
 - [Computer Vision](https://www.youtube.com/watch?v=CLOAswsxudo) - [[Slides]](https://www.dropbox.com/s/0n9vf1ndpq0fkpl/lecture4.pdf?dl=1)
 - Generative Adversarial Networks (coming soon) 
 - [Deep Learning for Human Sensing](https://www.youtube.com/watch?v=Z2GfE8pLyxc)
-- Guest Talk - Sacha Arnoud (coming soon) 
-- Guest Talk - Emilio Frazzoli (coming soon) 
+- [Guest Talk - Sacha Arnoud](https://www.youtube.com/watch?v=LSX3qdy0dFg) 
+- [Guest Talk - Emilio Frazzoli](https://www.youtube.com/watch?v=dWSbItd0HEA) 
 - Deep Learning for Driver State Sensing (coming soon) 
 - Guest Talk - Oliver Cameron (coming soon) 
-- Guest Talk - Sterling Anderson (coming soon) 
+- [Guest Talk - Sterling Anderson](https://www.youtube.com/watch?v=HKBhP9JISF0) 
 
 #### Assignments
 - [DeepTraffic](https://selfdrivingcars.mit.edu/deeptraffic/)
