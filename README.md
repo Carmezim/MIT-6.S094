@@ -25,7 +25,7 @@
 - [Deep Reinforcement Learning](https://www.youtube.com/watch?v=MQ6pP65o7OM) - [[Slides]](https://www.dropbox.com/s/1m4h06cf3lnj8b5/lecture3.pdf?dl=1)
 - [Computer Vision](https://www.youtube.com/watch?v=CLOAswsxudo) - [[Slides]](https://www.dropbox.com/s/0n9vf1ndpq0fkpl/lecture4.pdf?dl=1)
 - Generative Adversarial Networks (coming soon) 
-- [Deep Learning for Human Sensing](https://www.youtube.com/watch?v=Z2GfE8pLyxc)
+- [Deep Learning for Human Sensing](https://www.youtube.com/watch?v=Z2GfE8pLyxc) - [[Slides]](https://www.dropbox.com/s/2m3ok1wrzmgmov3/lecture5.pdf?dl=1)
 - [Guest Talk - Sacha Arnoud](https://www.youtube.com/watch?v=LSX3qdy0dFg) 
 - [Guest Talk - Emilio Frazzoli](https://www.youtube.com/watch?v=dWSbItd0HEA) 
 - Deep Learning for Driver State Sensing (coming soon) 
