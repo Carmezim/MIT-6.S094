@@ -29,7 +29,7 @@
 - [Guest Talk - Sacha Arnoud](https://www.youtube.com/watch?v=LSX3qdy0dFg) 
 - [Guest Talk - Emilio Frazzoli](https://www.youtube.com/watch?v=dWSbItd0HEA) 
 - Deep Learning for Driver State Sensing (coming soon) 
-- Guest Talk - Oliver Cameron (coming soon) 
+- [Guest Talk - Oliver Cameron](https://www.youtube.com/watch?v=-j0tc0Y1CIE)
 - [Guest Talk - Sterling Anderson](https://www.youtube.com/watch?v=HKBhP9JISF0) 
 
 
